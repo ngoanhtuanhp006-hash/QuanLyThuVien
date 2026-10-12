@@ -10,8 +10,10 @@ Bài tập nhóm: chương trình Java quản lý Sách, Tạp chí, Báo.
 | Trần Xuân Bách | Menu, nhập liệu, kiểm thử | Main, README |
 
 ## Cách chạy
+```
 javac -encoding UTF-8 *.java
 java -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 Main
+```
 
 ## Chức năng
 Thêm tài liệu, xoá theo mã, hiển thị, tìm theo loại, thoát.
